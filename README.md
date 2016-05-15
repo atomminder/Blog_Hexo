@@ -1,1 +1,1 @@
-### Simple Blog Template Powered by Hexo 
+### Simple Blog Powered by Hexo 
