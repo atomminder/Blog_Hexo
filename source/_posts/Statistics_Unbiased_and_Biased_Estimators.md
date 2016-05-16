@@ -89,6 +89,9 @@ S_{biased}^{2}{=}\frac{n-1}{n}S_{unbiased}^{2}   \nonumber
 
 ### Reference
 
- <i class="fa fa-rocket" aria-hidden="true"></i>  http://math.arizona.edu/~jwatkins/m-unbiased.pdf
- <i class="fa fa-rocket" aria-hidden="true"></i>   http://math.arizona.edu/~jwatkins/N_unbiased.pdf
+> math.arizona.edu/~jwatkins/m-unbiased.pdf [<i class="fa fa-rocket" aria-hidden="true"></i>][1]
+> math.arizona.edu/~jwatkins/N_unbiased.pdf [<i class="fa fa-rocket" aria-hidden="true"></i>][2] 
+
+[1]: http://math.arizona.edu/~jwatkins/m-unbiased.pdf
+[2]: http://math.arizona.edu/~jwatkins/N_unbiased.pdf
 
